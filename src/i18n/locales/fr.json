@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets"
+  },
+  "home": {
+    "title": "Bonjour, je suis Hakan.",
+    "subtitle": "Développeur logiciel, passionné par l'IA.",
+    "about": {
+      "title": "À Propos",
+      "content": [
+        "Bonjour, je suis Hakan.",
+        "Depuis mon enfance, ma passion pour la technologie n'a jamais faibli. Créer de nouvelles choses, coder et interagir avec les machines n'est pas seulement un métier pour moi, c'est une véritable vocation. J'ai toujours cherché à rendre les choses plus intelligentes, plus efficaces et plus utiles.",
+        "Dans le passé, j'ai travaillé sur des projets en modélisme spatial, cybersécurité, robotique et développement front-end. J'ai développé la première fusée à poussée vectorielle de Turquie, car j'adore repousser les limites et explorer de nouvelles possibilités. Mais mon objectif ultime a toujours été de contribuer aux technologies du futur.",
+        "Aujourd'hui, je me concentre sur le développement iOS et l'intelligence artificielle. Je développe Dinnermind, une application de suivi des calories entièrement pilotée par l'IA. Ce n'est pas juste une application, mais une étape de mon parcours pour comprendre comment l'intelligence artificielle peut s'intégrer dans la vie quotidienne.",
+        "Pour moi, la technologie n'est pas seulement un outil, mais une force qui rend la vie plus simple et plus efficace. En exploitant le potentiel de l'IA, je veux apporter une contribution significative à l'avenir.",
+        "Et oui, je n'ai pas encore construit l'armure d'Iron Man… mais qui sait ce que l'avenir nous réserve ?"
+      ]
+    },
+    "experience": {
+      "title": "Expérience",
+      "senior": {
+        "title": "Développeur Logiciel, Fondateur",
+        "company": "Dinnermind",
+        "period": "Novembre 2024 - Présent",
+        "description": "Développement d'une application de suivi des calories entièrement alimentée par l'IA."
+      },
+      "developer": {
+        "title": "Développeur Logiciel, Fondateur",
+        "company": "Acidalia Labs - Auto-Entrepreneur",
+        "period": "Juillet 2020 - Avril 2024",
+        "description": "Développement de projets de cybersécurité et d'intelligence artificielle."
+      }
+    },
+    "education": {
+      "title": "Formation",
+      "degree": {
+        "title": "Ingénieur en Informatique",
+        "school": "Nom de l'Université",
+        "period": "2014 - 2018",
+        "description": "Formation en développement logiciel, algorithmes et structures de données."
+      }
+    },
+    "skills": {
+      "title": "Technologies"
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "Pour me contacter ou en savoir plus sur mes projets:"
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Quelques projets importants que j'ai développés et les technologies utilisées.",
+    "categories": {
+      "web": "Application Web",
+      "backend": "Service Backend",
+      "mobile": "Application Mobile",
+      "hardware": "Matériel"
+    },
+    "items": {
+      "gateway": {
+        "title": "Service API Gateway",
+        "description": "Un service API Gateway haute performance. Idéal pour l'architecture microservices avec limitation de débit, mise en cache, authentification et équilibrage de charge."
+      },
+      "rocket": {
+        "title": "Fusée Modèle à Poussée Vectorielle",
+        "description": "Première fusée modèle de Turquie avec système de poussée vectorielle."
+      },
+      "fitness": {
+        "title": "Dinnermind",
+        "description": "Application de suivi des calories entièrement alimentée par l'IA."
+      }
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+} 
